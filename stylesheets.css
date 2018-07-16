@@ -1,0 +1,29 @@
+.date{
+  color: #dbc3d0;
+  text-align: center;
+  text-transform: uppercase;
+  font-family: 'Arapey', serif;
+  font-size: 100px;
+}
+
+#tagline{color: #fccdd3; font-size: 40px; font-family: 'Arapey', serif; text-align:center;}
+
+body{
+  color:#c7a693;
+  font-family: 'Pathway Gothic One', sans-serif;
+  font-size: 20px;
+  line-height: 1.5;
+  font-weight: 300;
+  /* background-image: url("C:/Users/331169425/Downloads/background.jpg"); */
+  background-size: 60 px;
+  background-color: #5e0231;
+}
+
+a{
+  text-decoration: none;
+  a:hover: #856046;
+}
+
+.menu li{
+  display: inline;
+}
